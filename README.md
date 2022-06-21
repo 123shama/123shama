@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @123shama
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python programing for rasberry pi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail me profjadhav506@gmail.com
 
